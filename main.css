@@ -1,0 +1,18 @@
+
+
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 90vw; 
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 90vw; 
+    display: flex;
+    justify-content: center; 
+    color:brown;
+}
